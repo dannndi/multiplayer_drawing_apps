@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586986001205",
+    "project_id": "guest-cafe-c46e4",
+    "storage_bucket": "guest-cafe-c46e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586986001205:android:7806170807c6470f33727c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_skeleton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586986001205-pc8d45bsbqa7dv93ffqmkf7dbo81bo6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozxq0ULPZnKmb4h3pq8gT8LeoVFwWOAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586986001205-pc8d45bsbqa7dv93ffqmkf7dbo81bo6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
